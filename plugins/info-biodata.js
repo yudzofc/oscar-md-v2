@@ -3,11 +3,11 @@ let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
 •·––––––––––––––––––––––––––·•
-❑ *Nama* : Jarot
-❑ *Umur* : 18 Tahun
-❑ *Kelas* : Lulus
-❑ *Ulang Tahun* : 30 Januari 2004
-❑ *Alamat* : AS, AS, Pelabuhan
+❑ *Nama* : Wahyudi
+❑ *Umur* : 16 Tahun
+❑ *Kelas* : XI IPA 3
+❑ *Ulang Tahun* : 6 Februari 2006
+❑ *Alamat* : Jkt, Jkt, INA
 •·––––––––––––––––––––––––––·•
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(fotonya7)).buffer()}, { upload: conn.waUploadToServer }) 
@@ -20,14 +20,14 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: 'GroupBot 🐈',
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               url: 'https://chat.whatsapp.com/DnOeCnfvCvREjasisjOCpU'
              }
 
            },
                 {
                urlButton: {
-               displayText: '🌍 Link Youtube 🌍',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               displayText: '🌍 Igehh Owner 🌍',
+               url: 'https://instagram.com/lebihkerendariandy_warholl.id'
              }
 
            },
