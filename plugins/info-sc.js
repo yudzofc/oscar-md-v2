@@ -12,18 +12,18 @@ let krizyn = `
             hydratedTemplate: {
                 hydratedContentText: krizyn,
                 imageMessage: message.imageMessage, 
-           hydratedFooterText: 'subscribe banh!',
+           hydratedFooterText: 'Illena-Md',
            hydratedButtons: [{
              urlButton: {
-               displayText: 'SOURCE CODE 🐈',
-               url: sc
+               displayText: 'GRUP OFFICIAL BOT 🐈',
+               url: 'https://chat.whatsapp.com/DnOeCnfvCvREjasisjOCpU'
              }
 
            },
                 {
                urlButton: {
-               displayText: '🌍 Youtube 🌍',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               displayText: '🌍 Igehh Owner 🌍',
+               url: 'https://instagram.com/lebihkerendariandy_warholl.id'
              }
 
            },
