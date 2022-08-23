@@ -21,7 +21,7 @@ let jarot = `
             hydratedTemplate: {
                 hydratedContentText: jarot,
                 imageMessage: message.imageMessage, 
-           hydratedFooterText: '',
+           hydratedFooterText: 'Illena-Md',
            hydratedButtons: [{
              urlButton: {
                displayText: 'YouTube creator🌱',
